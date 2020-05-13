@@ -1,0 +1,4 @@
+#Wed May 13 14:00:40 CST 2020
+base.0=/Users/gengliangxiang/Documents/Project/React Native/rn-app-template/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
